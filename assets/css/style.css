@@ -333,7 +333,8 @@ html,body{
 	line-height: 1.22;
 }
 .about-us h2 span{
-    font-size: 4.5vw;
+    font-size: 75px;
+    color: #1ABC9C;
 }
 .about-btn {
     margin-top: 39px;
@@ -1565,9 +1566,6 @@ html,body{
 
 
 /* propias */
-.span-home-azul {
-    color: #1ABC9C;
-  }
 
   .service-img a span{
       color: #1ABC9C;
@@ -1576,3 +1574,8 @@ html,body{
   .service-img a span:hover{
     color: rgb(20, 156, 129);
 }
+/* 
+.img-fluid{
+    max-width: 100%; 
+    height: auto;
+}  */
