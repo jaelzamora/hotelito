@@ -720,7 +720,7 @@ html,body{
 /* ---- .item ---- */
 .filtr-container .filtr-item {
     overflow:hidden;
-    float: left;
+    /* float: left; */
     position:relative;
     margin-bottom: 30px;
     overflow:hidden;
